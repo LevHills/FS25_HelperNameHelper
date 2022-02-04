@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+    <title>
+        <en>Helpername Helper</en>
+		<de>Helfernamen Helfer</de>
+    </title>
+    <description>
+        <de><![CDATA[Es kann sehr verwirrend sein wenn man nur liest das 'Helfer A' die Aufgabe beendet hat. Aber wer war nochmal 'Helfer A'?
+
+Dieser Mod erleichtert dies, indem der Fahrzeugname als Helfername gesetzt wird. Nicht mehr, nicht weniger.
+]]></de>
+		<en><![CDATA[It can be quite confusing when you just read 'Helper A' ended the job. Who was 'Helper A'?
+
+This mod makes your life easier by setting the vehicle name as helper name. That's it, not more, not less
+]]></en>
+    </description>
+    <author>sperrgebiet</author>
+	<version>1.0.0.0</version>
+
+	<iconFilename>modIcon.dds</iconFilename>
+
+	<multiplayer supported="true"/>
+
+	<extraSourceFiles>
+        <sourceFile filename="HelperHelp.lua" />
+    </extraSourceFiles>
+
+</modDesc>
