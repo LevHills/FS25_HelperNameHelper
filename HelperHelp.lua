@@ -1,15 +1,14 @@
--- HelperHelp.lua for FS22
--- sperrgebiet 2022
--- Unlike others I see the meaning in mods that others can learn, expand and improve them. So feel free to use this in your own mods, 
--- add stuff to it, improve it. Your own creativity is the limit ;) If you want to mention me in the credits fine. If not, I'll live happily anyway :P
--- Yeah, I know. I should do a better job in document my code... Next time, I promise... 
--- Please see https://gitlab.com/sperrgebiet/FS22_HelperNameHelper for additional information, credits, issues and everything else
+-- HelperHelp.lua for FS25 based on the FS22 Mod bz Sperrgebiet
+-- Lev Hills 2024
+-- see https://github.com/LevHills/FS25_HelperNameHelper for additional information, credits, issues and everything else
+-- credits to sperrgebiet 2022
+-- original https://gitlab.com/sperrgebiet/FS22_HelperNameHelper
 
 HelperHelp = {}
 
 HelperHelp.ModName = g_currentModName
 HelperHelp.ModDirectory = g_currentModDirectory
-HelperHelp.Version = "1.0.0.0"
+HelperHelp.Version = "2.0.0.0"
 
 
 function HelperHelp.changeHelperName(helperIndex, name, noEventSend)
