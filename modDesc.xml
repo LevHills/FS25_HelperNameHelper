@@ -14,10 +14,11 @@ Dieser Mod erleichtert dies, indem der Fahrzeugname als Helfername gesetzt wird.
 This mod makes your life easier by setting the vehicle name as helper name. That's it, not more, not less
 ]]></en>
     </description>
-    <author>LevHills based on sperrgebiet</author>
+    <author>LevHills</author>
+    <contributors>sperrgebiet (FS22 author)</contributors>
 	<version>2.0.0.1</version>
 
-	<iconFilename>modIcon.dds</iconFilename>
+	<iconFilename>icon_helperNameHelper.dds</iconFilename>
 
 	<multiplayer supported="true"/>
 

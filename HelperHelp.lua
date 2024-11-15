@@ -8,7 +8,7 @@ HelperHelp = {}
 
 HelperHelp.ModName = g_currentModName
 HelperHelp.ModDirectory = g_currentModDirectory
-HelperHelp.Version = "2.0.0.0"
+HelperHelp.Version = "2.0.0.1"
 
 
 function HelperHelp.changeHelperName(helperIndex, name, noEventSend)

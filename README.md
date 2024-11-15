@@ -18,7 +18,8 @@ create tickets on github
 contributions are welcome!
 
 ## Authors and acknowledgment
-Sperrgebiet submitted this to FS22 with OSS contribution
+Sperrgebiet submitted this to FS22 with OSS contribution rights
+
 original FS22 Mod link: https://gitlab.com/sperrgebiet/FS22_HelperNameHelper
 
 ## License
