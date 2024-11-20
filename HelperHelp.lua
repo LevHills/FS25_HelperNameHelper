@@ -1,4 +1,4 @@
--- HelperHelp.lua for FS25 based on the FS22 Mod bz Sperrgebiet
+-- HelperHelp.lua for FS25 based on the FS22 Mod by Sperrgebiet
 -- Lev Hills 2024
 -- see https://github.com/LevHills/FS25_HelperNameHelper for additional information, credits, issues and everything else
 -- credits to sperrgebiet 2022
@@ -8,7 +8,7 @@ HelperHelp = {}
 
 HelperHelp.ModName = g_currentModName
 HelperHelp.ModDirectory = g_currentModDirectory
-HelperHelp.Version = "2.0.0.1"
+HelperHelp.Version = "2.0.0.2"
 
 
 function HelperHelp.changeHelperName(helperIndex, name, noEventSend)
